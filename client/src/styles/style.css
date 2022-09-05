@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px 0px;
+}
+
+.form{
+    justify-content: center;
+    border: black solid 1px;
+    width: 300px;
+    margin: 20px 0px;
+}
+
+.table{
+    border: 1px solid black;
+}
+
+.show{
+    border: 1px black solid;
+    margin-top: 15px;
+}
+
+.logreg{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.reg{
+    display: flex;
+    flex-direction: column;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+}
